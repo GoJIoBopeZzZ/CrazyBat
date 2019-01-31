@@ -1,0 +1,13 @@
+*.iml
+.gradle
+/local.properties
+
+# Intellij
+*.iml
+.idea
+
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+/app/src/main/assets/temp.json
